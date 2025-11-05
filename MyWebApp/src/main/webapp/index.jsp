@@ -5,6 +5,6 @@
 </head>
 <body>
 <h2>Hi Team! We are implementing CICD workflow using Github Actions!!!!!!!!!</h2>
-<h2>Hi Team! This is test project</h2>
+<h2>Hi Team! This is test project2</h2>
 </body>
 </html>
